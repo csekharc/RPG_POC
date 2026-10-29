@@ -14,7 +14,7 @@
       *__BD ECRTBND204
       *===============================================================*
       * Path:   r_lnreg.pdw
-      * System: RAJASHEKAR
+      * System: VVAMSI
       * Project:Kwik-Loan
       * Set:    Dev Websmart
       * User:   rajashekhar.battu
